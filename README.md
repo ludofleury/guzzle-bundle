@@ -29,3 +29,7 @@ Reporting an issue or a feature request
 ---------------------------------------
 
 Issues and feature requests are tracked in the [Github issue tracker](https://github.com/misd-service-development/guzzle-bundle/issues).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ludofleury/guzzle-bundle/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
